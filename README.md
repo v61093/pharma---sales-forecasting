@@ -4,7 +4,7 @@ KioMed, a huge pharmaceutical retailer, operates in in 10+ cities across India. 
 
 The retailer has provided you with historical sales data and is looking to forecast the sales for the period of one month aPer the end of the data. These forecasts will be used to ensure that the company is able to stock its supplies of medicines in a warehouse accordingly in each city for a period of one month.
 
-# City records ▶
+#### City records ▶
 1 : Kolkata, 
 2 : Other, 
 3 : Jaipur, 
@@ -15,3 +15,6 @@ The retailer has provided you with historical sales data and is looking to forec
 8: Hyderabad, 
 9 : Ahmedabad, 
 10 : Lucknow
+
+### Training data : https://drive.google.com/file/d/1bGV3u4urIk0-48cLO9IzetftOnKDGt2a/view?usp=sharing
+### Discounted data : https://drive.google.com/file/d/1YGbD4LA2k19vtwZ3tNxuNRGqFOi5Mu3R/view?usp=sharing
